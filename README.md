@@ -20,7 +20,7 @@ This is a simple Ping Pong game implemented using HTML5, CSS, and JavaScript. Th
 
 ### How to Play
 
-1. Open `index.html` in a web browser.
+1. Open `pingpong.html` in a web browser.
 2. Click the "Start Game" button to begin.
 3. Use the keyboard controls to move the paddles and hit the ball.
 4. The game ends when a player reaches the maximum score of 10.
